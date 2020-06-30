@@ -5,7 +5,7 @@ test('Testing the reverse of a string', () => {
 });
 
 test('Testing the reverse of a string', () => {
-  expect(reverseString([1,2,3,4])).toBe('The input is not a string');
+  expect(reverseString([1, 2, 3, 4])).toBe('The input is not a string');
 });
 
 test('Testing the reverse of a string', () => {
