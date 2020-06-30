@@ -14,9 +14,5 @@
     "no-param-reassign": "off",
     "eol-last": "off",
     "arrow-parens": "off"
-  },
-  "ignorePatterns": [
-    "dist/",
-    "build/"
-  ]
+  }
 }
