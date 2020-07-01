@@ -1,8 +1,7 @@
-# JS-Testing-Practice [Live Link](#)
+# JS-Testing-Practice
 
 - JavaScript
-
-![sample](images/sample.png)
+- Jest
 
 ## Usage
 > Clone the repository to your local machine using ssh:
@@ -17,19 +16,14 @@ $ git clone https://github.com/rOluochKe/JS-Testing-Practice.git
 ```
 $ cd JS-Testing-Practice
 ```
-> Run Server Locally
-
+> Run tests 
+```
+$ npm run test
+```
 
 ## Functionalities
-- The classic Tic Tac Toe game that all have played.
-- Added players custom names
-- Added players name validations
-- Added players scores history
-- Added reset functionality
-- Added local storage functionality for score history
-- Added turn notifier
-- Vanilla Javascript
-- Bootstrap user friendly interface
+- Wrote these functions for testing capitalize, calculator, reverse string and caesar cipher
+- Wrote their respective test cases using jest
 
 ## Designed and developed by
 - [Raymond Oluoch](https://github.com/rOluochKe)
